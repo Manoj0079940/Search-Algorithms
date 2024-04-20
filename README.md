@@ -115,11 +115,9 @@ else:
 
 ```
 ## Sample Input and Output
-![image](https://github.com/Manoj0079940/Search-Algorithms/assets/149366208/fdb0d13a-789d-4122-b0c3-2b36ae1ac1f3)
-![image](https://github.com/Manoj0079940/Search-Algorithms/assets/149366208/59106ab4-4c5b-4923-b88d-06221188ccfc)
-![image](https://github.com/Manoj0079940/Search-Algorithms/assets/149366208/422a18d6-4e75-4d79-a6ba-cfb63ef27867)
-
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 
